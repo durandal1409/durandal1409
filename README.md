@@ -19,13 +19,10 @@ I'm a Full Stack Web Developer
 </div>
 <br/>
 
----
 
 ### Projects
 
 
-
----
 
 ### 📫 How to reach me:
 
