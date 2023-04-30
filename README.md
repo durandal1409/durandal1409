@@ -2,9 +2,9 @@
 Hi there 👋  
 I'm a Full Stack Web Developer
 
----
-
+#
 ### Technologies
+
 <div style="background-color:white; height:30px; width:400px; border-radius:5px; padding:5px;">
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
